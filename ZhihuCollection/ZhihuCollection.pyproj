@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="BaseClass.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="ZhihuCollection.py" />
   </ItemGroup>
   <PropertyGroup>
